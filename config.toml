@@ -1,5 +1,5 @@
 title = "Federação Paulista de Voo Livre"
-baseURL = "https://ibombonato.github.io/fpvl/"
+baseURL = "/fpvl/"
 languageCode = "pt-br"
 theme = "gohugo-theme-ananke"
 
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   filename = "sitemap.xml"
 
 [params]
-  logo = "/fpvl/images/fpvl.webp"
+  logo = "/images/fpvl.webp"
   org_name = "Federação Paulista de Voo Livre"
   favicon = ""
   description = "Federação Paulista de Voo Livre"
