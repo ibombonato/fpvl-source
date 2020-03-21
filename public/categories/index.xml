@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Federação Paulista de Voo Livre</title>
+    <link>/fpvl/categories/</link>
+    <description>Recent content in Categories on Federação Paulista de Voo Livre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fpvl/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>noticias</title>
+      <link>/fpvl/categories/noticias/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fpvl/categories/noticias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eventos</title>
+      <link>/fpvl/categories/eventos/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fpvl/categories/eventos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobre</title>
+      <link>/fpvl/categories/sobre/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fpvl/categories/sobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resultados</title>
+      <link>/fpvl/categories/resultados/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fpvl/categories/resultados/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
