@@ -14,7 +14,7 @@ description: ''
 featured_image: '/images/1a-etapa-paulista-parapente-2020-03-cancelada.jpg'
 ---
 
-![](/images/1a-etapa-paulista-parapente-2020-03-cancelada.jpg)
+![](/noticias/2020-03-21-adiamento-da-primeira-etapa-do-paulista-pico-do-gavião.br_files/1a-etapa-paulista-parapente-2020-03-cancelada.jpg)
 
 Comunicamos o adiamento da 1° Etapa do Campeonato Paulista de Parapente 2020 Pico do Gavião, Andradas MG, sem uma data prévia até porque não sabemos quanto tempo essa pandemia vai levar, resolvemos esperar Por mais uma semana na esperança de haver uma melhora, mas infelizmente não temos uma previsão de quanto tempo vai durar essa crise.
 
