@@ -3,7 +3,7 @@ title: CAMPEONATO PAULISTA DE PARAPENTE 2019 - 1ª ETAPA - PICO DO GAVIÃO
 date: '2019-06-24'
 slug: campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavião
 categories: ['resultados']
-tags: ['2019', 'resultados']
+tags: ['2019', 'resultados', 'eventos']
 description: ''
 featured_image: ''
 ---

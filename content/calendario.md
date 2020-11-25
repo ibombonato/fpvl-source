@@ -1,8 +1,9 @@
 ---
 description: "Confira abaixo a programação da FPVL"
 featured_image: "/images/calendario_2020.png"
-tags: []
+tags: [eventos]
 title: Programação FPVL
+type: page
 ---
 
 ## Calendário 2020

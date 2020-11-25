@@ -1,14 +1,14 @@
 title = "Federação Paulista de Voo Livre"
 baseURL = "/"
-languageCode = "pt-br"
+languageCode = "br"
 theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "br"
+DefaultContentLanguage = "pt"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-mainSections = ["noticias", "eventos"]
+mainSections = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [sitemap]
@@ -46,16 +46,20 @@ unsafe= true
 [menu]
   [[menu.main]]
       name = "Notícias"
-      url = "/noticias/"
+      url = "/tags/noticias/"
       weight = 1
   [[menu.main]]
       name = "Eventos"
-      url = "/eventos/"
+      url = "/tags/eventos/"
       weight = 2
   [[menu.main]]
       name = "Resultados"
-      url = "/resultados/"
+      url = "/tags/resultados/"
       weight = 3
+  [[menu.main]]
+      name = "Calendario"
+      url = "/calendario/"
+      weight = 4
   [[menu.main]]
       name = "Sobre"
       url = "/sobre/"

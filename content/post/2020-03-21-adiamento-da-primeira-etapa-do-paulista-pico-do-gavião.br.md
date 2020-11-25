@@ -10,6 +10,7 @@ tags:
   - '2020'
   - paulista 2020
   - eventos
+  - noticias
 description: ''
 featured_image: '/images/1a-etapa-paulista-parapente-2020-03-cancelada.jpg'
 ---

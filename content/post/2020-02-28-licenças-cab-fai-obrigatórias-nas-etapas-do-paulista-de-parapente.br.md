@@ -5,7 +5,7 @@ date: '2020-02-28'
 slug: licenças-cab-fai-obrigatórias-nas-etapas-do-paulista-de-parapente
 categories:
   - noticias
-tags: []
+tags: ["noticias"]
 description: ''
 featured_image: ''
 ---
