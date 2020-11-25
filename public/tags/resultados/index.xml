@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resultados on Federação Paulista de Voo Livre</title>
-    <link>/fpvl/tags/resultados/</link>
+    <link>/tags/resultados/</link>
     <description>Recent content in resultados on Federação Paulista de Voo Livre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/fpvl/tags/resultados/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>br</language>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/resultados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAMPEONATO PAULISTA DE PARAPENTE 2019 - 1ª ETAPA - PICO DO GAVIÃO</title>
-      <link>/fpvl/resultados/campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavi%C3%A3o/</link>
+      <link>/post/campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavi%C3%A3o/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fpvl/resultados/campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavi%C3%A3o/</guid>
+      <guid>/post/campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavi%C3%A3o/</guid>
       <description>Confira tudo que aconteceu durante a 1ª etapa do CAMPEONATO PAULISTA DE PARAPENTE 2019 que ocorreu no PICO DO GAVIÃO.
 Resultados
 Outras informações do evento</description>
