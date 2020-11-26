@@ -16,7 +16,7 @@ jobs:
         cd docs/
         rm -v !("CNAME") -r
         cd ..
-        cp -ar public docs
+        cp public/* docs/ -r
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
