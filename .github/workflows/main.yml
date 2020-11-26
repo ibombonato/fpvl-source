@@ -12,6 +12,7 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Create local changes
       run: |
+        shopt -s extglob
         cd docs/
         rm -v !("CNAME") -r
         cd ..
