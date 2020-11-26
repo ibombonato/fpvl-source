@@ -2,48 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Federação Paulista de Voo Livre</title>
-    <link>/fpvl/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Federação Paulista de Voo Livre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/fpvl/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>br</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eventos</title>
-      <link>/fpvl/categories/eventos/</link>
-      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <link>/categories/eventos/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/fpvl/categories/eventos/</guid>
+      <guid>/categories/eventos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>noticias</title>
-      <link>/fpvl/categories/noticias/</link>
+      <link>/categories/noticias/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/fpvl/categories/noticias/</guid>
+      <guid>/categories/noticias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sobre</title>
-      <link>/fpvl/categories/sobre/</link>
+      <link>/categories/sobre/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/fpvl/categories/sobre/</guid>
+      <guid>/categories/sobre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resultados</title>
-      <link>/fpvl/categories/resultados/</link>
+      <link>/categories/resultados/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fpvl/categories/resultados/</guid>
+      <guid>/categories/resultados/</guid>
       <description></description>
     </item>
     

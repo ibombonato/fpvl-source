@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>noticias on Federação Paulista de Voo Livre</title>
-    <link>/categories/noticias/</link>
+    <link>/tags/noticias/</link>
     <description>Recent content in noticias on Federação Paulista de Voo Livre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>br</language>
-    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/noticias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adiamento da primeira etapa do Paulista - Pico do Gavião</title>
       <link>/post/adiamento-da-primeira-etapa-do-paulista-pico-do-gavi%C3%A3o/</link>
