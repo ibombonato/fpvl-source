@@ -1,0 +1,70 @@
+title = "Federação Paulista de Voo Livre"
+baseURL = "/"
+languageCode = "br"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "br"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+mainSections = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  logo = "images/fpvl.webp"
+  logo_share = "images/logo.jpg"
+  org_name = "Federação Paulista de Voo Livre"
+  favicon = "images/favicon.ico"
+  description = "Federação Paulista de Voo Livre"
+  facebook = "https://www.facebook.com/federacaopaulistadevoolivre/"
+  twitter = ""
+  instagram = "https://www.instagram.com/federacaopaulistadevoolivre/"
+  youtube = "https://www.youtube.com/channel/UC30j1xMZVfvoeWMaySNrInA"
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  featured_image = "/images/home.jpg"
+  recent_posts_number = 2
+  read_more_copy = "leia mais"
+  more = "Mais"
+  env = "production"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[menu]
+  [[menu.main]]
+      name = "Notícias"
+      url = "/tags/noticias/"
+      weight = 1
+  [[menu.main]]
+      name = "Eventos"
+      url = "/tags/eventos/"
+      weight = 2
+  [[menu.main]]
+      name = "Resultados"
+      url = "/tags/resultados/"
+      weight = 3
+  [[menu.main]]
+      name = "Calendario"
+      url = "/calendario/"
+      weight = 4
+  [[menu.main]]
+      name = "Sobre"
+      url = "/sobre/"
+      weight = 5
+  [[menu.main]]
+      name = "Contato"
+      url = "/contato/"
+      weight = 6
