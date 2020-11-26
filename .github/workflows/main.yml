@@ -1,24 +1,22 @@
-name: Move Only Public Folder to Deploy Branch
+name: Push Public to Deploy Repo
+
 on: push
+
 jobs:
-  build:
+  copy-file:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes test folder
+      uses: crykn/copy_folder_to_another_repo_action@v1.0.5
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    - name: Create local changes
-      run: |
-        find ./ -mindepth 1 ! -regex '^./public\(/.*\)?' -delete
-        mv /public ..      
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Add changes" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: deploy
+        source_folder: 'public'
+        destination_repo: 'ibombonato/fpvl'
+        destination_folder: '.'
+        user_email: 'action@github.com'
+        user_name: 'GitHub Action'
+        commit_msg: '[GHA] Deploy from source.'
