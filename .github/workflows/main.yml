@@ -12,12 +12,14 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Create local changes
       run: |
+        rm -r docs
         cp -ar public docs
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Add changes" -a
+        git add -A
+        git commit -m "Creating Docs Folder"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
