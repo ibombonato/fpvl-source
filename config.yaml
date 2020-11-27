@@ -1,0 +1,70 @@
+title: Federação Paulista de Voo Livre
+baseURL: http://www.fpvl.com.br
+languageCode: pt
+theme: gohugo-theme-ananke
+DefaultContentLanguage: pt
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ''
+enableRobotsTXT: yes
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "CNANME"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+  
+params:
+  background_color_class: bg-navy
+  description: Federação Paulista de Voo Livre
+  facebook: 'https://www.facebook.com/federacaopaulistadevoolivre/'
+  favicon: 'images/favicon.ico'
+  featured_image: /images/home.jpg
+  github: ''
+  gitlab: ''
+  instagram: 'https://www.instagram.com/federacaopaulistadevoolivre/'
+  linkedin: ''
+  mastodon: ''
+  recent_posts_number: 3
+  rss: ''
+  site_logo: 'images/fpvl.webp'
+  slack: ''
+  stackoverflow: ''
+  twitter: ''
+  youtube: 'https://www.youtube.com/channel/UC30j1xMZVfvoeWMaySNrInA'
+  org_name: Federação Paulista de Voo Livre
+  logo_share: "images/logo.jpg"
+  read_more_copy: "leia mais"
+  more: "mais"
+  
+menu:
+  main:
+  - identifier: noticias
+    name: "Notícias"
+    url: "/tags/noticias/"
+    weight: 1
+  - identifier: eventos
+    name: "Eventos"
+    url: "/tags/eventos/"
+    weight: 2
+  - identifier: resultados
+    name: "Resultados"
+    url: "/tags/resultados/"
+    weight: 3
+  - identifier: calendario
+    name: "Calendario"
+    url: "/tags/calendario/"
+    weight: 4
+  - identifier: sobre
+    name: "Sobre"
+    url: "/sobre/"
+    weight: 5
+  - identifier: eventos
+    name: "Contato"
+    url: "/contato/"
+    weight: 6

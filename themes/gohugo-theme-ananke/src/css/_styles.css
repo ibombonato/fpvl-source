@@ -15,9 +15,6 @@
 
 }
 
-.logo-header {
-    max-width: 30%;
-    vertical-align: middle;
-    margin: 0 20px 0 0;
-    display: inline-block;
+.nested-links a{
+  overflow-wrap: break-word;
 }

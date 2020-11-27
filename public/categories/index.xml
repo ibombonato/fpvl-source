@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Federação Paulista de Voo Livre</title>
-    <link>/categories/</link>
+    <link>http://www.fpvl.com.br/categories/</link>
     <description>Recent content in Categories on Federação Paulista de Voo Livre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>br</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.fpvl.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eventos</title>
-      <link>/categories/eventos/</link>
+      <link>http://www.fpvl.com.br/categories/eventos/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/eventos/</guid>
+      <guid>http://www.fpvl.com.br/categories/eventos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>noticias</title>
-      <link>/categories/noticias/</link>
+      <link>http://www.fpvl.com.br/categories/noticias/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/noticias/</guid>
+      <guid>http://www.fpvl.com.br/categories/noticias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sobre</title>
-      <link>/categories/sobre/</link>
+      <link>http://www.fpvl.com.br/categories/sobre/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sobre/</guid>
+      <guid>http://www.fpvl.com.br/categories/sobre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resultados</title>
-      <link>/categories/resultados/</link>
+      <link>http://www.fpvl.com.br/categories/resultados/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/resultados/</guid>
+      <guid>http://www.fpvl.com.br/categories/resultados/</guid>
       <description></description>
     </item>
     

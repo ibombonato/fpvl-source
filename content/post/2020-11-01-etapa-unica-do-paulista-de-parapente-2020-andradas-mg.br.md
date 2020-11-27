@@ -16,8 +16,14 @@ section: 'home'
 
 ![](/images/etapa-unica-paulista-parapente-2020.jpg)
 
-A Federação Paulista de Voo Livre tem o prazer de anunciar que estão abertas as inscrições para a primeira etapa do campeonato paulista de parapente 2020, evento FAI-2, que será realizado no Pico do Gavião, em Andradas - MG, entre os dias 18 e 21 de Abril. Teremos 4 etapas no ano de 2020 todas já no calendário oficial no site da CBVL.
-Teremos apenas 125 vagas, garanta já sua inscrição para não perder sua vaga.
+Vem aí a etapa única do Paulista de Parapente 2020 nos dias 20, 21 e 22 de novembro de 2020.
+Será feito nos moldes das outras etapas, ou seja:
+
+- Valor de inscrição mais baixo possível
+- Rastreadores CBVL disponíveis
+- Resgate por conta dos participantes
+- Evento FAI Cat 2
+- FAI (pontuação no WPRS para todos os participantes)
 
 As inscrições já estão abertas e podem ser acessadas no <a href="http://eventos.cbvl.esp.br/pt/eventos/339-1-etapa-do-paulista-de-parapente-2020-andradas-mg#inscricoes" target="_blank">site da CBVL</a>.
 
