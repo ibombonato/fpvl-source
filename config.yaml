@@ -33,7 +33,7 @@ params:
   mastodon: ''
   recent_posts_number: 3
   rss: ''
-  site_logo: 'images/fpvl.webp'
+  site_logo: 'images/FPVL_semfundo.png'
   slack: ''
   stackoverflow: ''
   twitter: ''
@@ -60,7 +60,7 @@ menu:
     weight: 3
   - identifier: calendario
     name: "Calendario"
-    url: "/tags/calendario/"
+    url: "/calendario/"
     weight: 4
   - identifier: sobre
     name: "Sobre"
