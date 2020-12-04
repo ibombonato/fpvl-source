@@ -3,28 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.fpvl.com.br/tags/2020/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://www.fpvl.com.br/</loc>
-    <lastmod>2020-12-04T13:39:17-03:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.fpvl.com.br/post/</loc>
-    <lastmod>2020-12-04T13:39:17-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/post/2020-11-24-notifica%C3%A7%C3%A3o-de-assembl%C3%A9ia-geral-ordin%C3%A1ria/</loc>
-    <lastmod>2020-12-04T13:39:17-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/tags/2020/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

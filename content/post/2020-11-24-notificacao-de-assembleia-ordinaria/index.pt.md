@@ -1,5 +1,5 @@
 ---
-title: Notificação de Assembleia Geral Ordinária
+title: Notificacao de Assembleia Geral Ordinaria
 author: ''
 date: '2020-11-24'
 slug: []
@@ -13,7 +13,7 @@ description: ''
 
 FEDERAÇÃO PAULISTA DE ASA DELTA E PARAPENTE - FPVL
 
-Assembleia Geral Ordinária
+Assembleia Geral Ordinária  
 
 
 Pelo presente e nos termos dos artigos 21º A 24º do Estatuto, convoco a Assembleia Geral da FEDERAÇÃO PAULISTA DE ASA DELTA E PARAPENTE - FPVL, a realizar-se na Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, no dia 08 de Dezembro de 2020, às 20h00, com a seguinte ordem do dia:
