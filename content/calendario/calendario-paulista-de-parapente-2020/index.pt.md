@@ -1,12 +1,13 @@
 ---
-description: "Confira abaixo a programação da FPVL"
-featured_image: "/images/calendario_2020.png"
-tags: [eventos]
-title: Programação FPVL
-type: page
+title: "Calendário Campeonato Paulista de parapente 2020"
+date: 2020-01-01
+tags: []
+featured_image: ""
+description: ""
 ---
 
-## Calendário 2020
+
+## Calendário Campeonato Paulista de parapente 2020
 
 - ETAPA UNICA do Paulista de Parapente 2020 - 20, 21 e 22 de novembro de 2020 - ANDRADAS - MG
 
