@@ -1,7 +1,7 @@
 ---
 title: "Calendário Campeonato Paulista de parapente 2020"
 date: 2020-01-01
-tags: []
+tags: [eventos]
 featured_image: ""
 description: ""
 ---

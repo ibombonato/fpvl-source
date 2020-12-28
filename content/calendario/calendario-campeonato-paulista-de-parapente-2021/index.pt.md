@@ -1,17 +1,16 @@
 ---
-title: "Calendário Campeonato Paulista de parapente 2021"
-date: 2021-01-01
+title: Calendario Campeonato Paulista de Parapente 2021
+author: ''
+date: '2020-12-28'
+slug: []
+categories: []
 tags:
   - '2021'
   - eventos
   - noticias
-featured_image: ""
-description: ""
+featured_image: ''
+description: ''
 ---
-
-## Calendário Campeonato Paulista de parapente 2021
-
-Em breve será divugado o calendário de 2021
 
 Definido calendário com as etapas de parapente para 2021
 
