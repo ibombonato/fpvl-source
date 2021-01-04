@@ -12,5 +12,3 @@ Para entrar em contato, utilize um dos canais abaixo:
 {{< param org_name >}}
 
 e-mail: federacaopaulistadevoolivre@gmail.com  
-
-Fone: (11) 99725-4094
