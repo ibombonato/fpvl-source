@@ -21,5 +21,3 @@ Definido calendário com as etapas de asa delta para 2021
 - 5º Etapa - 14 e 15/08 - Brasópolis
 - 6º Etapa - 18 e 19/09 - Águas da Prata/Andradas
 - 7º Etapa - 25 e 26/09 - Águas da Prata/Andradas
-
-![](/images/calendario_fpvl_2021_asa_delta.jpg "Calendario FPVL 2021 Asa Delta")
