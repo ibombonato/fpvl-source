@@ -12,7 +12,7 @@ title: Programação FPVL
 
 - ETAPA CANCELADA: ~~De 10 e 11 de abril - São Pedro~~
 - ETAPA CANCELADA: ~~De 03 a 06 de junho - Pico do Gavião~~
-- De 21 a 22 de Agosto  - Ilha do Ar
+- ETAPA CANCELADA: ~~De 21 a 22 de Agosto  - Ilha do Ar~~
 - De 09 a 12 de outubro - Pico do Gavião
 
 **Asa Delta:**
