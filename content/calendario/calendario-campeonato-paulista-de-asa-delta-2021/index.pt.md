@@ -12,8 +12,17 @@ featured_image: ''
 description: ''
 ---
 
-Definido calendário com as etapas de asa delta para 2021
+Redefinido calendário com as etapas de asa delta para 2021:
 
+- 24 e 25 de julho - Águas da Prata/Andradas
+- 14 e 15 de agosto - Brasópolis
+- 18 e 19 de setembroo - Águas da Prata/Andradas
+- 25 e 26 de setembro - Águas da Prata/Andradas
+
+* Atualizado em 05/07/2021
+
+
+Antigo calendário:
 - 1º Etapa - 27 e 28/03 - Águas da Prata/Andradas
 - 2º Etapa - 03 e 04/04 - Águas da Prata/Andradas
 - 3º Etapa - 01 e 02/05 - Brasópolis

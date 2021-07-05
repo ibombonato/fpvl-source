@@ -12,11 +12,10 @@ featured_image: ''
 description: ''
 ---
 
-Definido calendário com as etapas de parapente para 2021
+Redefinido calendário com as etapas de parapente para 2021
 
-- ETAPA CANCELADA: ~~De **10 e 11 de abril - São Pedro** – SP - 1ª ETAPA DO PAULISTA DE PARAPENTE 2021~~
-- ETAPA CANCELADA: ~~De **03 a 06 de junho - Pico do Gavião** - ANDRADAS - MG - 2ª ETAPA DO PAULISTA DE PARAPENTE 2021~~
-- ETAPA CANCELADA: ~~De **21 a 22 de agosto  - Ilha do Ar** - Sto. Antônio da Alegria - SP - 3ª ETAPA DO PAULISTA DE PARAPENTE 2021~~
-- De **09 a 12 de outubro - Pico do Gavião** - ANDRADAS - MG - 4ª ETAPA DO PAULISTA DE PARAPENTE 2021
+- 25 e 26 de setembro - Bela Vista - MG (Antiga rampa de Santa Rita do Sapucaí)
+- De 09 a 12 de outubro - Andradas - MG (Pico do Gavião)
+- 13 e 14 de novembro - Poços de Caldas - MG
 
-* Atualizado em 19/05/2021
+* Atualizado em 05/07/2021
