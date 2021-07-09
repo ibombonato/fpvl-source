@@ -25,7 +25,7 @@ Confira as novas datas:
 
 - 25 e 26 de setembro - Bela Vista - MG
 - De 09 a 12 de outubro - Andradas - MG
-- 13 e 14 de novembro - Poços de Caldas - MG
+- 13 a 15 de novembro - Poços de Caldas - MG
 
 **Asa Delta:**
 
