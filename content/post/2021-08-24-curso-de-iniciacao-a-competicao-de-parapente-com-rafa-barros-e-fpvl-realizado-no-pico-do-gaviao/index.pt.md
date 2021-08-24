@@ -17,7 +17,7 @@ description: ''
 
 A FPVL realizou nos dias 21 e 22 de agosto, em parceria com o piloto Rafael Barros a primeira turma de iniciação a competição de parapente. 
 
-Estamos muito felizes de fazer acontecer esse projeto. Que venham os próximos. 🚀
+Estamos muito felizes de fazer acontecer esse projeto. Que venham os próximos. 🚀  
 
 ![](/images/2021_curso_rafa_fpvl_gaviao_03.jpg)
 

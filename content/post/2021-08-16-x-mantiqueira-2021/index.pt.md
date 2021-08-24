@@ -14,9 +14,9 @@ description: ''
 
 No último fim de semana aconteceu o X-Mantiqueira, campeonato de parapente em São Lourenço, sendo etapa fo campeonato mineiro e carioca.
 
-O time paulista mostrou que não estava para brincadeira. Rafael barros conquistou o primeiro lugar na categoria Open, e Ricardo Bigeli conquistou o primeiro lugar na categoria Serial 🚀
+O time paulista mostrou que não estava para brincadeira. Rafael barros conquistou o primeiro lugar na categoria Open, e Ricardo Bigeli conquistou o primeiro lugar na categoria Serial 🚀  
 
-Parabéns aos pilotos!
+Parabéns aos pilotos!  
 
 ![](/images/x_mantiqueira_2021_rafa.jpg)
 
