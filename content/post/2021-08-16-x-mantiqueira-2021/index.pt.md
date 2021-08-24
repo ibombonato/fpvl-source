@@ -1,5 +1,5 @@
 ---
-title: X-Mantiqueira 2021
+title: Pilotos paulistas vencem o X-Mantiqueira 2021
 author: ''
 date: '2021-08-16'
 slug: []
@@ -12,9 +12,9 @@ featured_image: ''
 description: ''
 ---
 
-no último fim de semana aconteceu o X-Mantiqueira, campeonato de parapente em São Lourenço, sendo etapa fo campeonato mineiro e carioca.
+No último fim de semana aconteceu o X-Mantiqueira, campeonato de parapente em São Lourenço, sendo etapa fo campeonato mineiro e carioca.
 
-O time paulista mostrou que não estava para brincadeira. @rafael_barros07 conquistou o primeiro lugar na categoria Open, e @ricardo_bigeli conquistou o primeiro lugar na categoria Serial 🚀
+O time paulista mostrou que não estava para brincadeira. Rafael barros conquistou o primeiro lugar na categoria Open, e Ricardo Bigeli conquistou o primeiro lugar na categoria Serial 🚀
 
 Parabéns aos pilotos!
 
