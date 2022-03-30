@@ -15,9 +15,8 @@ Definido o calendário de campeonatos Paulista 2022 de Parapente e Asa da PFVL.
 
 **Parapente:**
 
-- 21 e 22 de Maio (Pico do Gavião)
+- 21 e 22 de maio (Pico do Gavião)
 - 20 e 21 de agosto (Ilha do Ar)
-- 08 e 09 de Outubro (Ilha do Ar)
 
 
 **Asa Delta:**
@@ -27,3 +26,7 @@ Definido o calendário de campeonatos Paulista 2022 de Parapente e Asa da PFVL.
 - 09 e 10 de julho (Pico do Gavião)
 - 20 e 21 de agosto (Pico do Gavião)
 - **Super Final**: 08 de outubro ou 15 de Outubro (Pico do Gavião)
+  
+
+
+*Ultima atualização*: 30/03/2022

@@ -14,6 +14,8 @@ description: ''
 
 Definido calendário com as etapas de **Parapente** para 2022
 
-- 21 e 22 de Maio (Pico do Gavião)
+- 21 e 22 de maio (Pico do Gavião)
 - 20 e 21 de agosto (Ilha do Ar)
-- 08 e 09 de Outubro (Ilha do Ar)
+
+
+*Ultima atualização*: 30/03/2022
