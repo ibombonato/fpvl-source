@@ -1,7 +1,7 @@
 title: Federação Paulista de Voo Livre
 baseURL: http://www.fpvl.com.br
 languageCode: pt
-theme: gohugo-theme-ananke
+theme: "gohugo-theme-ananke"
 DefaultContentLanguage: pt
 SectionPagesMenu: main
 Paginate: 3

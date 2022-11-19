@@ -1,361 +1,264 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://www.fpvl.com.br/tags/2022/</loc>
-    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.fpvl.com.br/post/convocacao-assembleia-geral-ordinaria-2022/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.fpvl.com.br/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.fpvl.com.br/post/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.fpvl.com.br/tags/noticias/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://www.fpvl.com.br/tags/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2022-03-30-alterado-calendario-do-paulista-de-parapente-2022/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/categories/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/eventos/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/categories/eventos/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/</loc>
-    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/post/</loc>
-    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/tags/noticias/</loc>
-    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/categories/noticias/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/tags/</loc>
-    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/calendario-campeonato-paulista-de-asa-delta-2022/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/calendario-campeonato-paulista-de-parapente-2022/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2022-02-04-definido-o-calendario-fpvl-2022/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/2021/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-09-30-piloto-paulisto-david-brito-filho-e-campeao-de-asa-delta/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/resultados/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/categories/resultados/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-08-26-2-etapa-paulista-de-parapente-2021-pico-do-gaviao-andradas-mg/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-08-24-curso-de-iniciacao-a-competicao-de-parapente-com-rafa-barros-e-fpvl-realizado-no-pico-do-gaviao/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-08-16-x-mantiqueira-2021/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-07-29-resultado-primeira-etapa-do-campeonato-paulista-de-asa-delta-2021/</loc>
     <lastmod>2021-07-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-07-05-novo-calendario-de-etapas-dos-campeonatos-de-voo-livre-2021/</loc>
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-07-01-terceira-etapa-paulista-de-parapente-cancelada-devido-ao-covid-19/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-05-19-segunda-etapa-paulista-de-parapente-cancelada-devido-ao-covid-19/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-03-30-primeira-etapa-paulista-de-parapente-cancelada-devido-ao-covid-19/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2021-03-05-vagas-de-pilotos-paulistas-para-1-etapa-do-brasileiro-2021-de-parapente/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/calendario-campeonato-paulista-de-asa-delta-2021/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/calendario-campeonato-paulista-de-parapente-2021/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/2020/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2020-12-09-definida-nova-diretoria-para-2021-e-2022/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/paulista-2020/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2020-12-04-veja-como-ficou-o-ranking-paulista-de-2020/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2020-12-03-etapa-do-paulista-2020-publicada-na-fai/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2020-11-24-notificacao-de-assembleia-ordinaria/</loc>
     <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/2020-11-23-resultados-do-paulista-de-parapente-2020/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/etapa-unica-do-paulista-de-parapente-2020-andradas-mg/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/adiamento-da-primeira-etapa-do-paulista-pico-do-gavi%C3%A3o/</loc>
     <lastmod>2020-03-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/licen%C3%A7as-cab-fai-obrigat%C3%B3rias-nas-etapas-do-paulista-de-parapente/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/1-etapa-do-paulista-de-parapente-2020-andradas-mg/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/convoca%C3%A7%C3%A3o-para-assembl%C3%A9ia-geral-extraordin%C3%A1ria/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/sobre/2020-propostas/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.fpvl.com.br/sobre/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/categories/sobre/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://www.fpvl.com.br/sobre/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://www.fpvl.com.br/tags/2019/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/sobre/2019-balanco/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/calendario/calendario-paulista-de-parapente-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/sobre/2019-diretoria/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/veja-como-foi-o-primeiro-siv-patrocinado-pela-fpvl/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/post/campeonato-paulista-de-parapente-2019-1-etapa-pico-do-gavi%C3%A3o/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://www.fpvl.com.br/contato/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
